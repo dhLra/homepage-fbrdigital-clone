@@ -1,0 +1,160 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face{
+    font-family: Custom;
+    src:url(Montserrat-Italic-VariableFont_wght.ttf)
+}
+
+p{
+    font-family: Custom;
+}
+
+.btn-whatsapp{
+    background-color: #11af33;
+    color: #ffffff;
+    border: none;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+.btn-whatsapp:hover{
+    background-color: #0a6b1f;
+    color: #ffffff;
+}
+
+.navbar{
+    background-color: rgb(146, 129, 124);
+}
+
+.nav-link a{
+    color: #FFFFFF;
+}
+
+.bg-brow{
+    background-color: rgb(146, 129, 124);
+    color: #FFFFFF;
+}
+
+.bg-brow .btn-brow{
+    background-color: #E56910;
+    color:#ffffff;
+    border: none;
+    font-weight: bolder;
+}
+
+.bg-brow .btn-brow:hover{
+    background-color: #c0570c;
+    border: none;
+    font-weight: bolder;
+}
+
+.bg-brow .p-artigo{
+    font-size: 18px;
+}
+
+.bg-white{
+    background-color: rgb(242, 242, 242);
+}
+
+.bg-white .btn-white{
+    background-color: #E56910;
+    border: none;
+    font-weight: bolder;
+}
+
+.bg-white .btn-white{
+    background-color: #c0570c;
+    border: none;
+    font-weight: bolder;
+}
+
+.bg-white .carousel-control-next{
+    background-color: #000000;
+    color: #000000;
+    width: 20px;
+}
+
+.bg-white .carousel-control-prev{
+    background-color: #000000;
+    color: #000000;
+    width: 20px;
+}
+
+.bg-white img{
+    width: 89%;
+}
+
+.bg-white h2{
+    color:#E56910;
+}
+
+.bg-white a{
+    color:#E56910;
+    text-decoration: none;
+}
+
+.bg-white .logo{
+    width: 75%;
+}
+
+.bg-white .p-footer{
+    color: #E56910;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.bg-white .a-footer{
+    color: #E56910;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.bg-white i{
+    color: #E56910;
+}
+
+.contato{
+    width: 35%;
+    font-size: 19px;
+}
+
+.endereco{
+    width: 50%;
+}
+
+.artigo{
+    width: 100%;
+}
+
+.formulario{
+    box-shadow: 3px 5px 15px 5px rgba(0,0,0,0.65);
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.formulario input{
+    border: #E56910 1px solid;
+}
+
+.formulario textarea{
+    border: #E56910 1px solid;
+    height: 147px;
+}
+
+.bg-white .svg{
+    width: 50em;
+}
+
+.bg-white .maintenance-msg h1{
+    color: #E56910;
+    font-size: 60px;
+}
+
+.bg-white .maintenance-msg h3{
+    color: #E56910;
+    font-size: 30px;
+}
